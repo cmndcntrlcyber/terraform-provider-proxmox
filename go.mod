@@ -12,10 +12,9 @@ require (
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.13.0
 	github.com/hashicorp/terraform-registry-address v0.0.0-20220131103327-5c1c5e123275 // indirect
 	github.com/hashicorp/yamux v0.0.0-20211028200310-0bc27b27de87 // indirect
-	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
 	github.com/oklog/run v1.1.0 // indirect
-	github.com/rs/zerolog v1.26.1
+	github.com/rs/zerolog v1.29.0
 	github.com/vmihailenco/tagparser v0.1.2 // indirect
 	golang.org/x/crypto v0.0.0-20220321153916-2c7772ba3064 // indirect
 	golang.org/x/net v0.0.0-20220412020605-290c469a71a5 // indirect
