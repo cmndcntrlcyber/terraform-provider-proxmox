@@ -18,8 +18,7 @@ require (
 	github.com/rs/zerolog v1.26.1
 	github.com/vmihailenco/tagparser v0.1.2 // indirect
 	golang.org/x/crypto v0.0.0-20220321153916-2c7772ba3064 // indirect
-	golang.org/x/net v0.0.0-20220412020605-290c469a71a5 // indirect
-	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad // indirect
+	golang.org/x/net v0.7.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20220407144326-9054f6ed7bac // indirect
 )
